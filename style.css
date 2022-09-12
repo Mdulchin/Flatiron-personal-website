@@ -1,17 +1,19 @@
+
+#popup {
+    text-align: right;
+    padding-right: 0px;
+}
 .item {
     float: right;
     display: inline;
     width: 10%;
-        
-    
 }
-
 .item img {
     border-radius: 50%;
     width: 128px;
     height: 10%;
-   align-items: right;
    margin: 0 auto;
+  
 }
 
 

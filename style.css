@@ -1,5 +1,8 @@
 img {
     border-radius: 50%;
+    width: 20%;
+    height: 20%;
+    float: right;
 }
 body {
     background: rgb(119, 119, 200);
